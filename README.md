@@ -4,7 +4,7 @@
 
 
 <p align="end">
-<a href="https://www.linkedin.com/in/Muhammadjon Muydinjonov/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muhammadjon-muydinjonov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/Muhammad_Ismoil1"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
 <a href="https://facebook.com/Muhammad Ismoil"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
