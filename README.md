@@ -15,7 +15,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Business and Management - BS at University of Sunderland.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 👨‍🏫 &nbsp; Learning programming at [Ilmhub IT School](https://ilmhub.uz)
+  - 👨‍🏫 &nbsp; Working at [Ilmhub IT Solutions](https://ilmhub.uz)
 - 🌱 &nbsp; Learning .NET MAUI, DevOps and a lot more tech stuff.
 - 📫 &nbsp; Reach me at: muhammadjonmuydinjanov03@gmail.com
 
