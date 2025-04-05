@@ -15,16 +15,16 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Business and Management - BS at University of Sunderland.
 - ⌛️ &nbsp; Currently I'm busy with:
-  - 👨‍🏫 &nbsp; Working at [Fincube](https://fincube.uz/)
+  - 👨‍🏫 &nbsp; Working at [SSD](http://ssd.uz/)
 - 🌱 &nbsp; Learning DevOps and a lot more tech stuff.
-- 📫 &nbsp; Reach me at: muhammadjonmuydinjanov03@gmail.com
+- 📫 &nbsp; Reach me at: muhammadjonismail@gmail.com
 
 <br/>
 
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp; `.c` | `.cpp` | `.cs` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js`
-- 🌐 &nbsp; .NET 6/5/3 | MVC | Blazor | WebApi | Xamarin.Forms | Microservice
+- 🌐 &nbsp; Python | Playwright | Selenium | Appium | Java | Microservice
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
 - 🛢 &nbsp; SqlServer | PostgreSql
 - ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
